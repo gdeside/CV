@@ -15,19 +15,18 @@ sidebar:
     # Sidebar links
     email: guillaume.deside@hotmail.com
     phone: +32475228008
-    timezone: 
+    timezone: UTC+01:00
     citizenship: Belgian
-    website: blog.webjeda.com #do not add http://
-    linkedin: 
-    xing: 
+  #  linkedin: 
+  #  xing: 
     github: gdeside
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # telegram: # add your nickname without '@' sign
+   # gitlab:
+  #  bitbucket:
+  #  twitter: 
+  #  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #  codewars:
+  #  goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
     languages:
@@ -48,13 +47,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Football
           link:
 
-        - item: Snowboarding
+        - item: Running
           link:
 
-        - item: Cooking
+        - item: Cycling
           link:
 
 career-profile:
@@ -246,22 +245,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Java
+        level: 75%
+
+      - name: C
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: R
         level: 95%
 
-      - name: Ruby on Rails
+      - name: R
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Office
         level: 60%
 
 footer: >
