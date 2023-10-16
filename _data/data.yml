@@ -27,7 +27,7 @@ sidebar:
   #  stack-overflow: # Number/Username, e.g. 123456/alandoe
   #  codewars:
   #  goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+  #  pdf: 
 
     languages:
       title: Languages
@@ -59,18 +59,27 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a final-year Master's student pursuing a double degree from Politecnico di Milano and Université Catholique de Louvain-la-Neuve. My academic journey has specialized in cutting-edge fields such as Biomedical Data, Artificial Intelligence, Big Data, and Statistical Analysis of Clinical Trials.
+      
+      Throughout my studies, I have acquired a strong foundation in these areas, equipping me with the necessary skills to tackle complex challenges and contribute to innovative projects. I have a keen interest in data-driven healthcare solutions, and my education has provided me with the expertise to address the evolving needs of the healthcare industry.
+      
+      My experiences have not only fostered my technical abilities but have also honed my teamwork and collaboration skills. I thrive in a collaborative environment, and I am adept at working with diverse teams to achieve common goals.
+      
+      I am passionate about applying my knowledge and skills to make a positive impact in the field of biomedical data and healthcare. As I transition from academia into the professional world, I am eager to contribute to cutting-edge research and development projects, with a strong focus on leveraging data and technology to improve healthcare outcomes.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: T.I.M.E Double Degree MSc Biomedical engineering
+        university: Politecnico di Milano
+        time: 2022 - 2024
+        details: |
+          Major in Information Bioengineering
+            - Medical informatics
+            - Biomedical singal porcessing laboratory
+            - Technologies for sensors and clinical instrumentation
+      - degree: T.I.M.E Double Degree MSc Biomedical engineering
+        university: Université Catholique de Louvain-la-Neuve
+        time: 2021 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,9 +88,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Engineering
+        university: Université Catholique de Louvain-la-Neuve
+        time: 2018 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -264,4 +273,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
