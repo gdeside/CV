@@ -77,28 +77,34 @@ education:
             - Medical informatics
             - Biomedical singal porcessing laboratory
             - Technologies for sensors and clinical instrumentation
+            - Healthcare management
+            - Model identification AND machine learning
+            - Bioengineering of neurosensory systems
+            - Bioengineering of physiological control systems
+            - Analysis and organization of health systems
+            - Biomedical singal processing and medical images
+            - Biomedical signal processing laboratory
+            - ICT for healthcare
+            - Neuroengineering
+            - Methods and applications of AI in biomedicine
       - degree: T.I.M.E Double Degree MSc Biomedical engineering
         university: Université Catholique de Louvain-la-Neuve
         time: 2021 - 2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Major in Clinical engineering and Acquisition and processing of biomedical data
+            - Signal processing
+            - Artificial intelligence
+            - Electronic digital systems
+            - Introduction to clinical engineering
+            - Databases
+            - Statistics in clinical trials
+            - Medical images
+            - Bioinstrumentation
       - degree: BSc in Engineering
         university: Université Catholique de Louvain-la-Neuve
         time: 2018 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Major in Biomedical engineering and Computer science
 
 experiences:
     title: Experiences
