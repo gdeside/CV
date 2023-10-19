@@ -139,27 +139,14 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: SAS
+        - name: SAS Certified Specialist Base Programming Using SAS 9.4
           start: 2023
           end: 2024
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+          organization: SAS
+          #credentialid: 111-222
+          #credentialurl: www.google.com
+          #credentialname: Google
+          
         - name: Certificate in summer camp counselor 
           start: 2017
           end: 2018
@@ -174,21 +161,18 @@ projects:
         link: "#"
         tagline: "Python project to analyse brain activity phases from night EEGs"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: EEG classification
+        link: github.com/gdeside/LGBIO2020/tree/master/Projects
+        tagline: "Python project to classify brain activity phases"
 
-      - title: Tempo
+      - title: Brain tumor segmentation
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Python project to automatically segment and compute tumor size from a brains MRIs"
 
-      - title: Atom
+      - title: Goniometer for the knee
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Arduino project to create a gonimeter for the knee"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 publications:
