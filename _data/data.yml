@@ -82,7 +82,7 @@ education:
             - Bioengineering of neurosensory systems
             - Bioengineering of physiological control systems
             - Analysis and organization of health systems
-            - Biomedical singal processing and medical images
+            - Biomedical signal processing and medical images
             - Biomedical signal processing laboratory
             - ICT for healthcare
             - Neuroengineering
@@ -160,6 +160,10 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Certificate in summer camp counselor 
+          start: 2017
+          end: 2018
+          organization: Animagique asbl
 
 projects:
     title: Projects
