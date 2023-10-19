@@ -162,7 +162,7 @@ projects:
         tagline: "Python project to analyse brain activity phases from night EEGs"
 
       - title: EEG classification
-        link: github.com/gdeside/LGBIO2020/tree/master/Projects
+        link: https://github.com/gdeside/LGBIO2020/tree/master/Projects
         tagline: "Python project to classify brain activity phases"
 
       - title: Brain tumor segmentation
