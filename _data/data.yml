@@ -168,6 +168,9 @@ projects:
       - title: Goniometer for the knee
         link: "https://github.com/gdeside/Goniometer_knee"
         tagline: "Arduino project to create a gonimeter for the knee"
+      - title: Analysing the influence of the sense of sight and gravity when handling objects
+        link: "https://github.com/gdeside/LEPL1506_Projet4"
+        tagline: Creating protocol and code to study the influence of the sense of during the manipulation of objects using the precision gripper
 
 
 
