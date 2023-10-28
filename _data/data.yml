@@ -56,6 +56,12 @@ sidebar:
         - item: Cycling
           link:
 
+        - item: Travelling
+          link:
+
+        - item: Electronics
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
@@ -160,7 +166,7 @@ projects:
         tagline: "Python project to automatically segment and compute tumor size from a brains MRIs"
 
       - title: Goniometer for the knee
-        link: "#"
+        link: "https://github.com/gdeside/Goniometer_knee"
         tagline: "Arduino project to create a gonimeter for the knee"
 
 
@@ -212,7 +218,7 @@ skills:
         
       - name: Arduino
         level: 70%
-        
+
       - name: Raspberry Pi
         level: 70%
 footer: >
