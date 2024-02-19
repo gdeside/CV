@@ -11,14 +11,13 @@ sidebar:
     name: Guillaume Francois Deside
     tagline: Biomedical engineer
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    banner : Banner.png
     # Sidebar links
     email: guillaume.deside@hotmail.com
     phone: +32475228008
     timezone: UTC+01:00
     citizenship: Belgian
     linkedin: guillaume-deside
-  #  xing: 
     github: gdeside
   # telegram: # add your nickname without '@' sign
    # gitlab:
@@ -203,9 +202,6 @@ skills:
 
       - name: Matlab
         level: 80%
-
-      - name: R
-        level: 95%
 
       - name: R
         level: 85%

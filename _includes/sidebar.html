@@ -7,6 +7,10 @@
     <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
     {% endif %}
 
+    {% if sidebar.banner %}
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.banner }}" alt="banner picture" />
+    {% endif %}
+
     {% if sidebar.name %}
     <h1 class="name">{{ sidebar.name }}</h1>
     {% endif %}
